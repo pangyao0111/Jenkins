@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>eladmin-system</artifactId>
+    <packaging>war</packaging>
     <name>核心模块</name>
 
     <properties>
